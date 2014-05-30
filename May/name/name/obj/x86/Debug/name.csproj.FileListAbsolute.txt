@@ -1,0 +1,4 @@
+c:\users\lalit\documents\visual studio 2010\Projects\name\name\bin\Debug\name.exe
+c:\users\lalit\documents\visual studio 2010\Projects\name\name\bin\Debug\name.pdb
+c:\users\lalit\documents\visual studio 2010\Projects\name\name\obj\x86\Debug\name.exe
+c:\users\lalit\documents\visual studio 2010\Projects\name\name\obj\x86\Debug\name.pdb

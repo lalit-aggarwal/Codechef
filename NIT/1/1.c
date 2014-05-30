@@ -1,0 +1,2 @@
+# include <stdio.h>
+int c,r,s,z;main(){int t=2,i=10;scanf("%d",&c);B:if(c%i!=c){s=z;A:if(c){asm("movl $0x0,%%edx;movl %2,%%eax;idivl %3;":"=a" (c),"=d"(r):"g"(c),"g"(i));if(r%t)asm("addl %%ebx, %%eax;":"=a"(s):"a"(s),"b"(r));goto A;}c=s;goto B;}printf(c%t?"Perfect Odd":"Oh Not");return z;}
